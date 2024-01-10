@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7205aee.css",
+    "main.js": "/static/js/main.6251d884.js",
+    "static/media/CV of Rifad Islam.pdf": "/static/media/CV of Rifad Islam.e65b9f662f9d1441a7b2.pdf",
+    "static/media/site-bg.png": "/static/media/site-bg.68ede92302be357aa490.png",
+    "static/media/portfolio-1.jpg": "/static/media/portfolio-1.afbc0553f212c7c4c322.jpg",
+    "static/media/about.png": "/static/media/about.7fb21342450755d8c011.png",
+    "static/media/portfolio-2.jpg": "/static/media/portfolio-2.6557c402b76ee2b6ad13.jpg",
+    "static/media/avatar.png": "/static/media/avatar.f33348a03581a7377bfc.png",
+    "static/media/portfolio-3.jpg": "/static/media/portfolio-3.3e875cb299707e97a80e.jpg",
+    "static/media/services.png": "/static/media/services.835c8faa8054dd2d93da.png",
+    "static/media/logo.svg": "/static/media/logo.21480fe8e1ae7f81ad40bd8981ac4d7c.svg",
+    "index.html": "/index.html",
+    "main.c7205aee.css.map": "/static/css/main.c7205aee.css.map",
+    "main.6251d884.js.map": "/static/js/main.6251d884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7205aee.css",
+    "static/js/main.6251d884.js"
+  ]
+}
