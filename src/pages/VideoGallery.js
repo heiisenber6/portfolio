@@ -18,13 +18,13 @@ export const VideoGallery = () => {
     <Header />
       <MostRecent/>
       <Motion2D/>
-      <Motion3D/>
+      {/* <Motion3D/>
       <Splendor/>
       <PaperBoutique/>
       <WeddingBerries/>
       <VibeChange/>
       <Bridal/>
-      <Contact />
+      <Contact /> */}
     </div>
   )
 }

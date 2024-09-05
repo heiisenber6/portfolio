@@ -3,6 +3,9 @@ import { motion } from 'framer-motion'
 import { fadeIn } from '../../variants'
 
 export const Bridal = () => {
+   
+    const turnOffAnimation = false
+
   return (
     <section id='sp' className='min-h-[85vh] lg:min-h-[78vh] flex items-center'>
         <div className="container mx-auto py-10 bg-black/20 rounded-2xl border-b-4 border-black/20 backdrop-blur-md ">

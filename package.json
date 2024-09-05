@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "daisyui": "^4.12.10",
     "framer-motion": "^8.4.3",
     "react-countup": "^6.4.0",
     "react-icons": "^4.7.1",
